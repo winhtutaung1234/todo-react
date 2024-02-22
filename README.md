@@ -1,8 +1,9 @@
-# React + Vite
+# MERN Stack Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple todo app built using the MERN stack.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+- Create: Add new todo items to list.
+- Read: View the existing todo lists.
+- Update: Update your todo lists.
+- Delete: Remove items from the lists.
